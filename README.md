@@ -1,4 +1,5 @@
-bashcrypt
+Bashcrypt
+
 Create's a .sh file named nbs (new Bash script) with timestamp, #!/bin/bash already in it, and already executable to start scripting in Bash faster.
 
                                               --------------Sample output-------------- 
