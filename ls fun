@@ -1,0 +1,5 @@
+#!/bin/bash
+file="ls.txt"
+touch "$file"
+ls -al > "$file"
+echo 'hello world' >> "$file"
